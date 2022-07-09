@@ -62,13 +62,13 @@ const CONFIG = {
 			link: 'https://gmail.com/',
 		},
 		{
-			id: '5',
+			id: '3',
 			name: 'Reddit',
 			icon: 'glasses',
 			link: 'https://reddit.com',
 		},
 		{
-			id: '6',
+			id: '4',
 			name: 'Youtube',
 			icon: 'youtube',
 			link: 'https://youtube.com/',
